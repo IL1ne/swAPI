@@ -1,3 +1,4 @@
+.gitignore
 /Pods/
 *.DS_Store
 /model/.DS_Store
